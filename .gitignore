@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# VS Code
+.vscode/
+
+# Private project data
+Customer_Info.csv
+Project_2.csv
+cleaned_customers.csv
+cleaned_transactions.csv
+
+# Environment / secrets
+.env
+*.env
+
+# Logs
+*.log
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
